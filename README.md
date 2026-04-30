@@ -1,57 +1,96 @@
-<div style="background-color:#000; color:#fff; padding:30px; font-family:Arial, sans-serif;">
+<div align="center">
 
-  <h1 style="margin-bottom:5px;">STEV LOZANO</h1>
-  <p style="margin-top:0;">
-    Estudiante de Ingeniería de Software con IA<br>
-    SENATI · 5° semestre · Perú
-  </p>
+  <img src="https://readme-typing-svg.demolab.com?font=Space+Grotesk&size=40&duration=3000&pause=1000&color=FFFFFF&center=true&vCenter=true&width=435&lines=STEV+LOZANO;DESARROLLADOR;WEB+%26+SOFTWARE" alt="Typing SVG" />
 
-  <hr style="border:1px solid #222;">
-
-  <h2>Sobre mí</h2>
   <p>
-    Desarrollador en formación enfocado en crear soluciones web modernas,
-    sistemas de ventas y aplicaciones funcionales. Actualmente desarrollando
-    experiencia en entornos reales.
+    <img src="https://img.shields.io/badge/Estudiante-Ingeniería%20de%20Software%20con%20IA-000000?style=for-the-badge&labelColor=000000&color=FFFFFF" />
+    <img src="https://img.shields.io/badge/SENATI-5°%20semestre-000000?style=for-the-badge&labelColor=000000&color=333333" />
+    <img src="https://img.shields.io/badge/Perú-Lima-000000?style=for-the-badge&labelColor=000000&color=333333" />
   </p>
 
-  <h2>Experiencia</h2>
-  <p>
-    <strong>Practicante — DSG Perú Technology</strong><br>
-    Participación en desarrollo de soluciones tecnológicas y proyectos reales.
-  </p>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=60&section=header&reversal=true&animation=twinkling" />
 
-  <h2>Proyecto Personal</h2>
-  <p>
-    <strong>Codeol Software Perú</strong><br>
-    Plataforma enfocada en desarrollo web y soluciones digitales.<br>
-    <a href="https://codeolsoftware.work" style="color:#ccc;">codeolsoftware.work</a>
-  </p>
+</div>
 
-  <h2>Stack Tecnológico</h2>
-  <p>
-    <strong>Frontend:</strong> HTML · CSS · JavaScript<br>
-    <strong>Backend:</strong> Java · MySQL<br>
-    <strong>Herramientas:</strong> Git · GitHub · Linux · VS Code
-  </p>
+<br>
 
-  <h2>Proyectos</h2>
-  <ul>
-    <li><strong>EcoMarket</strong> – Plataforma de tienda online</li>
-    <li><strong>Sistema de Ventas</strong> – Gestión de productos y comprobantes</li>
-    <li><strong>JavaFX Apps</strong> – Interfaces dinámicas de escritorio</li>
-  </ul>
+## Sobre mí
 
-  <h2>Objetivo</h2>
-  <p>
-    Convertirme en un desarrollador profesional, creando sistemas escalables
-    y soluciones innovadoras.
-  </p>
+```
+Desarrollador en formación enfocado en crear soluciones web modernas,
+sistemas de ventas y aplicaciones funcionales. 
+Actualmente desarrollando experiencia en entornos reales.
+```
 
-  <h2>Contacto</h2>
-  <p>
-    GitHub: <a href="https://github.com/stevlozano" style="color:#ccc;">stevlozano</a><br>
-    Email: <a href="mailto:jl7599409@gmail.com" style="color:#ccc;">jl7599409@gmail.com</a>
-  </p>
+<br>
 
+## Experiencia
+
+| Período | Rol | Empresa |
+|---------|-----|---------|
+| 2024 — Actual | **Practicante** | DSG Perú Technology |
+
+Participación en desarrollo de soluciones tecnológicas y proyectos reales.
+
+<br>
+
+## Proyecto Personal
+
+<h3>
+  <a href="https://codeolsoftware.work" target="_blank">
+    Codeol Software Perú →
+  </a>
+</h3>
+
+Plataforma enfocada en desarrollo web y soluciones digitales.
+
+<br>
+
+## Stack Tecnológico
+
+<div align="center">
+
+  ### Frontend
+  ![HTML5](https://img.shields.io/badge/HTML5-000000?style=flat-square&logo=html5&logoColor=white)
+  ![CSS3](https://img.shields.io/badge/CSS3-000000?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-000000?style=flat-square&logo=javascript&logoColor=white)
+
+  ### Backend
+  ![Java](https://img.shields.io/badge/Java-000000?style=flat-square&logo=java&logoColor=white)
+  ![MySQL](https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white)
+
+  ### Herramientas
+  ![Git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git&logoColor=white)
+  ![GitHub](https://img.shields.io/badge/GitHub-000000?style=flat-square&logo=github&logoColor=white)
+  ![Linux](https://img.shields.io/badge/Linux-000000?style=flat-square&logo=linux&logoColor=white)
+  ![VS Code](https://img.shields.io/badge/VS%20Code-000000?style=flat-square&logo=visual-studio-code&logoColor=white)
+
+</div>
+
+<br>
+
+## Proyectos
+
+| Proyecto | Descripción |
+|----------|-------------|
+| **EcoMarket** | Plataforma de tienda online |
+| **Sistema de Ventas** | Gestión de productos y comprobantes |
+| **JavaFX Apps** | Interfaces dinámicas de escritorio |
+
+<br>
+
+## Contacto
+
+<div align="center">
+
+  [![GitHub](https://img.shields.io/badge/GitHub-stevlozano-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/stevlozano)
+  [![Email](https://img.shields.io/badge/Email-jl7599409@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jl7599409@gmail.com)
+  [![Web](https://img.shields.io/badge/Web-codeolsoftware.work-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://codeolsoftware.work)
+
+</div>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=60&section=footer&reversal=true&animation=twinkling" />
+
+<div align="center">
+  <sub>© 2024 Stev Lozano — Desarrollador en formación</sub>
 </div>
