@@ -5,7 +5,7 @@
   <p>
     <img src="https://img.shields.io/badge/Estudiante-Ingeniería%20de%20Software%20con%20IA-000000?style=for-the-badge&labelColor=000000&color=FFFFFF" />
     <img src="https://img.shields.io/badge/SENATI-5°%20semestre-000000?style=for-the-badge&labelColor=000000&color=333333" />
-    <img src="https://img.shields.io/badge/Perú-Lima-000000?style=for-the-badge&labelColor=000000&color=333333" />
+    <img src="https://img.shields.io/badge/Perú-Pucallpa-000000?style=for-the-badge&labelColor=000000&color=333333" />
   </p>
 
   <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=ffffff&height=60&section=header&reversal=true&animation=twinkling" />
