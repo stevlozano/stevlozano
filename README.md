@@ -1,38 +1,50 @@
-# 👋 Hola, soy Jefferson Lozano
+<h1 align="center">👋 Hola, soy Jefferson Lozano</h1>
 
-💻 Desarrollador en formación  
-🚀 Apasionado por la tecnología y la creación de proyectos web  
-📍 Perú  
+<p align="center">
+  💻 Desarrollador en formación | 🚀 Apasionado por la tecnología | 🇵🇪 Perú
+</p>
 
 ---
 
 ## 🧠 Sobre mí
-- 🎯 Enfocado en mejorar mis habilidades en desarrollo web
-- 📚 Aprendiendo constantemente nuevas tecnologías
-- ⚡ Interesado en proyectos reales y funcionales
+- 🎯 Enfocado en desarrollo web moderno  
+- 📚 Aprendiendo constantemente nuevas tecnologías  
+- ⚡ Creando proyectos funcionales y dinámicos  
 
 ---
 
 ## 🛠️ Tecnologías
-- HTML
-- CSS
-- JavaScript
-- Java
-- MySQL
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,java,mysql,git,github,vscode" />
+</p>
 
 ---
 
-## 📌 Proyectos
-🔹 EcoMarket  
-🔹 Sistema de ventas  
-🔹 Aplicaciones con JavaFX  
+## 📊 Estadísticas
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=TU-USUARIO&show_icons=true&theme=tokyonight" />
+  <br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TU-USUARIO&theme=tokyonight" />
+</p>
 
 ---
 
-## 📫 Contacto
-- GitHub: https://github.com/tu-usuario
-- Email: tuemail@example.com
+## 📌 Proyectos Destacados
+- 🛒 **EcoMarket** – Plataforma de tienda online  
+- 🍗 **Sistema de ventas (Pollería Rico Sabor)**  
+- ☕ **App de gestión de alimentos (JavaFX)**  
 
 ---
 
-✨ *Siempre aprendiendo, siempre construyendo.*
+## 🌐 Conecta conmigo
+<p align="center">
+  <a href="https://github.com/TU-USUARIO">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github" />
+  </a>
+</p>
+
+---
+
+<p align="center">
+✨ <i>Siempre aprendiendo, siempre construyendo.</i>
+</p>
