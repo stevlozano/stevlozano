@@ -1,97 +1,57 @@
-<h1 align="center">STEV LOZANO</h1>
+<div style="background-color:#000; color:#fff; padding:30px; font-family:Arial, sans-serif;">
 
-<p align="center">
-  Estudiante de Ingeniería de Software con IA
-</p>
+  <h1 style="margin-bottom:5px;">STEV LOZANO</h1>
+  <p style="margin-top:0;">
+    Estudiante de Ingeniería de Software con IA<br>
+    SENATI · 5° semestre · Perú
+  </p>
 
-<p align="center">
-  SENATI · 5° semestre · Perú
-</p>
+  <hr style="border:1px solid #222;">
 
----
+  <h2>Sobre mí</h2>
+  <p>
+    Desarrollador en formación enfocado en crear soluciones web modernas,
+    sistemas de ventas y aplicaciones funcionales. Actualmente desarrollando
+    experiencia en entornos reales.
+  </p>
 
-<p align="center">
-  Enfocado en desarrollo web, sistemas de ventas y soluciones reales.
-</p>
+  <h2>Experiencia</h2>
+  <p>
+    <strong>Practicante — DSG Perú Technology</strong><br>
+    Participación en desarrollo de soluciones tecnológicas y proyectos reales.
+  </p>
 
-<p align="center">
-  Fundador de Codeol Software Perú y desarrollador en formación con experiencia práctica.
-</p>
+  <h2>Proyecto Personal</h2>
+  <p>
+    <strong>Codeol Software Perú</strong><br>
+    Plataforma enfocada en desarrollo web y soluciones digitales.<br>
+    <a href="https://codeolsoftware.work" style="color:#ccc;">codeolsoftware.work</a>
+  </p>
 
----
+  <h2>Stack Tecnológico</h2>
+  <p>
+    <strong>Frontend:</strong> HTML · CSS · JavaScript<br>
+    <strong>Backend:</strong> Java · MySQL<br>
+    <strong>Herramientas:</strong> Git · GitHub · Linux · VS Code
+  </p>
 
-<h3 align="center">Experiencia</h3>
+  <h2>Proyectos</h2>
+  <ul>
+    <li><strong>EcoMarket</strong> – Plataforma de tienda online</li>
+    <li><strong>Sistema de Ventas</strong> – Gestión de productos y comprobantes</li>
+    <li><strong>JavaFX Apps</strong> – Interfaces dinámicas de escritorio</li>
+  </ul>
 
-<p align="center">
-  Prácticas en DSG Perú Technology
-</p>
+  <h2>Objetivo</h2>
+  <p>
+    Convertirme en un desarrollador profesional, creando sistemas escalables
+    y soluciones innovadoras.
+  </p>
 
-<p align="center">
-  Desarrollo y participación en proyectos tecnológicos aplicados.
-</p>
+  <h2>Contacto</h2>
+  <p>
+    GitHub: <a href="https://github.com/stevlozano" style="color:#ccc;">stevlozano</a><br>
+    Email: <a href="mailto:jl7599409@gmail.com" style="color:#ccc;">jl7599409@gmail.com</a>
+  </p>
 
----
-
-<h3 align="center">Proyecto Personal</h3>
-
-<p align="center">
-  Codeol Software Perú
-</p>
-
-<p align="center">
-  <a href="https://codeolsoftware.work">codeolsoftware.work</a>
-</p>
-
-<p align="center">
-  Plataforma enfocada en desarrollo web y soluciones digitales.
-</p>
-
----
-
-<h3 align="center">Stack</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
-</p>
-
----
-
-<h3 align="center">Proyectos</h3>
-
-<p align="center">
-  EcoMarket · Sistema de Ventas · JavaFX
-</p>
-
-<p align="center">
-  Desarrollo de interfaces, lógica de negocio y bases de datos.
-</p>
-
----
-
-<h3 align="center">Objetivo</h3>
-
-<p align="center">
-  Convertirme en un desarrollador profesional, creando sistemas escalables y soluciones innovadoras.
-</p>
-
----
-
-<p align="center">
-  <a href="https://github.com/stevlozano">
-    <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:jl7599409@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
+</div>
