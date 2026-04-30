@@ -1,46 +1,88 @@
 <h1 align="center">STEV LOZANO</h1>
 
 <p align="center">
-  Ingeniero de Software con IA · SENATI · 5° semestre
+  Estudiante de Ingeniería de Software con IA
 </p>
 
 <p align="center">
-  Construyendo soluciones simples, modernas y funcionales
+  SENATI · 5° semestre · Perú
 </p>
 
 ---
+
+<p align="center">
+  Enfocado en desarrollo web, sistemas de ventas y soluciones reales.
+</p>
+
+<p align="center">
+  Fundador de Codeol Software Perú y desarrollador en formación con experiencia práctica.
+</p>
+
+---
+
+<h3 align="center">Experiencia</h3>
+
+<p align="center">
+  Prácticas en DSG Perú Technology
+</p>
+
+<p align="center">
+  Desarrollo y participación en proyectos tecnológicos aplicados.
+</p>
+
+---
+
+<h3 align="center">Proyecto Personal</h3>
+
+<p align="center">
+  Codeol Software Perú
+</p>
+
+<p align="center">
+  <a href="https://codeolsoftware.work">codeolsoftware.work</a>
+</p>
+
+<p align="center">
+  Plataforma enfocada en desarrollo web y soluciones digitales.
+</p>
+
+---
+
+<h3 align="center">Stack</h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/HTML-000000?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS-000000?style=for-the-badge&logo=css3&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-000000?style=for-the-badge&logo=typescript&logoColor=white"/>
-  <img src="https://img.shields.io/badge/React-000000?style=for-the-badge&logo=react&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue-000000?style=for-the-badge&logo=vue.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/NestJS-000000?style=for-the-badge&logo=nestjs&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Kotlin-000000?style=for-the-badge&logo=kotlin&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-000000?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Docker-000000?style=for-the-badge&logo=docker&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Firebase-000000?style=for-the-badge&logo=firebase&logoColor=white"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Postman-000000?style=for-the-badge&logo=postman&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Cypress-000000?style=for-the-badge&logo=cypress&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Arduino-000000?style=for-the-badge&logo=arduino&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Linux-000000?style=for-the-badge&logo=linux&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
 </p>
 
 ---
 
+<h3 align="center">Proyectos</h3>
+
 <p align="center">
-EcoMarket · Sistema de Ventas · JavaFX
+  EcoMarket · Sistema de Ventas · JavaFX
+</p>
+
+<p align="center">
+  Desarrollo de interfaces, lógica de negocio y bases de datos.
+</p>
+
+---
+
+<h3 align="center">Objetivo</h3>
+
+<p align="center">
+  Convertirme en un desarrollador profesional, creando sistemas escalables y soluciones innovadoras.
 </p>
 
 ---
