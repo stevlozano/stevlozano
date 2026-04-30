@@ -26,22 +26,12 @@ Actualmente desarrollando experiencia en entornos reales.
 
 ## Experiencia
 
-<div align="center">
+```
+2024 — Actual
+```
 
-  <table>
-    <tr>
-      <td width="120" valign="top">
-        <sub>2024 — Actual</sub>
-      </td>
-      <td valign="top">
-        <b>Practicante</b><br>
-        <sub>DSG Perú Technology</sub><br><br>
-        <sub>Participación en desarrollo de soluciones tecnológicas y proyectos reales.</sub>
-      </td>
-    </tr>
-  </table>
-
-</div>
+**Practicante** @ DSG Perú Technology  
+Participación en desarrollo de soluciones tecnológicas y proyectos reales.
 
 <br>
 
