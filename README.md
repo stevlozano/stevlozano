@@ -26,11 +26,22 @@ Actualmente desarrollando experiencia en entornos reales.
 
 ## Experiencia
 
-| Período | Rol | Empresa |
-|---------|-----|---------|
-| 2024 — Actual | **Practicante** | DSG Perú Technology |
+<div align="center">
 
-Participación en desarrollo de soluciones tecnológicas y proyectos reales.
+  <table>
+    <tr>
+      <td width="120" valign="top">
+        <sub>2024 — Actual</sub>
+      </td>
+      <td valign="top">
+        <b>Practicante</b><br>
+        <sub>DSG Perú Technology</sub><br><br>
+        <sub>Participación en desarrollo de soluciones tecnológicas y proyectos reales.</sub>
+      </td>
+    </tr>
+  </table>
+
+</div>
 
 <br>
 
